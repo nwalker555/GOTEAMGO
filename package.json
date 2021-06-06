@@ -1,0 +1,21 @@
+{
+  "name": "goteamgo",
+  "version": "1.0.0",
+  "description": "Team Profile Generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "ts-jest": "^26.5.5"
+  }
+}
